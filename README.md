@@ -54,7 +54,7 @@ Them querying processor info:
 
 ![](https://cdn.discordapp.com/attachments/855337473986265109/954069456349446174/unknown.png)
 
-Here are [logged syscalls from before they kick you](https://pastebin.com/raw/X2PLGaF7) (after you're flagged)
+Here are [logged syscalls from before they kick you](https://pastebin.com/raw/UyKsQjCJ) (after you're flagged)
 
 [Anticheat module's imports](https://pastebin.com/raw/X2PLGaF7)
 
